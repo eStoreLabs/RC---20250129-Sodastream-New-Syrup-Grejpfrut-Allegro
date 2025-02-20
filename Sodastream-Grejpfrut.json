@@ -1,0 +1,64 @@
+[
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./KV.png",
+      "size": "L",
+      "alt": "Grejpfrut & Kwiat Czarnego Bzu"
+    },
+    "text": {
+      "content": "<p>Zakochaj się w doznaniach smakowych, które zapewnia nowa, bezalkoholowa baza do koktajli i moktajli SodaStream Crafted Grejpfrut & Kwiat Czarnego Bzu. </p><p><b>Perfekcyjne koktajle i moktajle na 1, 2, tssst!</b></p><p>Puść wodze fantazji i podkreślaj smak codzienności zarówno w ciągu dnia, jak i po zmroku. Orzeźwiająca lemoniada to świeży start w nowy dzień, moktajl stanowi perfekcyjne tło dla popołudniowych spotkań, a koktajl podkreśla wyjątkowość imprez i uroczystości. Z nową kolekcją oryginalnych syropów SodaStream Crafted może być słodko, orzeźwiająco i finezyjnie!</p><p><b>Zmień każdą chwilę w przygodę pełną smakowych bąbelków!</b></p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-02.png",
+      "size": "L",
+      "alt": "Gazuj, Miksuj, Smakuj"
+    },
+    "text": {
+      "content": "<h3>Z SodaStream Crafted – każdy napój to nowa historia </h3><p><b>Mmm jak pysznie!</b></p><p>Cierpki grejpfrut przepleciony słodkimi nutami kwiatu czarnego bzu - chociaż te nuty są tak odległe, razem tworzą harmonijną całość, która wiruje niepowtarzalnym, letnim smakiem! Wystarczy, że dodasz syrop do wody gazowanej by za każdym razem zachwycać się nim na nowo. Tylko od Ciebie zależy, jakiego wymiaru nabierze to niebanalne połączenie.</p><p><b>Wow, jak szybko!</b></p><p>Kreuj moktajle i koktajle na 1, 2, tssst – w kilka chwil i bez skomplikowanych przepisów czy kursów barmańskich. Czego potrzebujesz by cieszyć się energetyzującą lemoniadą? Wystarczy woda gazowana, przygotowana za pomocą Twojego saturatora SodaStream i baza SodaStream Crafted! Jeśli masz ochotę na bardziej wyrafinowany napój, wystarczy, że dodasz ulubione dodatki i ewentualnie alkohol.</p><p><b>Ooo jak wydajnie!</b></p><p>Nawet 20 cudownych chwil, czyli aż 20 przepysznych napojów 175 ml – tyle wyczarujesz z jednej butelki syropu SodaStream Crafted Grejpfrut & Kwiat Czarnego Bzu 330 ml. W ten sposób dbasz również o swój portfel, nie tylko o podniebienie!</p><p><b>Za dnia kreuj nieoczywiste moktajle, a wieczorem dodaj alkohol i eksperymentuj z dodatkami. Zainspiruj się przepisami i twórz arcydzieła miksologii z SodaStream Crafted Grejpfrut & Kwiat Czarnego Bzu.</b></p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-03.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Moktajl: Blueberry Elderflower Fizz"
+    },
+    "text": {
+      "content": "<h3>Moktajl: Blueberry Elderflower Fizz</h3><p><b>Składniki:</b></p><ul><li>20 ml bazy SodaStream Crafted Grejpfrut & Kwiat               Czarnego Bzu</li><li>70 ml wody gazowanej SodaStream</li><li>10 ml musu jagodowego</li><li>20 ml soku z cytryny</li><li>Kostki lodu</li><li>Kwiaty czarnego bzu, skórka z limonki</li></ul><p><b>Przygotowanie:</b></p><ul><li>W niskiej, pękatej szklance umieść borówki i kilka kostek lodu. Do szklanki dodaj 10 ml musu jagodowego,  20 ml soku z cytryny i 20 ml bazy SodaStream Crafted Grejprut & Kwiat Czarnego Bzu. </li><li>Następnie, uzupełnij wodą gazowaną i delikatnie  wymieszaj napój łyżką barmańską. </li><li>Udekoruj kwiatami czarnego bzu i skórką z limonki. </li></ul>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-04.png",
+      "size": "M",
+      "align": "MID",
+      "alt": "Koktajl: Elderflower Prosecco Spritz"
+    },
+    "text": {
+      "content": "<h3>Koktajl: Elderflower Prosecco Spritz</h3><p><b>Składniki:</b></p><ul><li>70 ml bazy SodaStream Crafted Grejpfrut & Kwiat Czarnego Bzu</li><li>20 ml wody gazowanej SodaStream</li><li>70 ml Prosecco</li><li>20 ml soku z limonki</li><li>Kostki lodu</li><li>Kawałki grejpfruta, kwiaty czarnego bzu </li></ul><p><b>Przygotowanie:</b></p><ul><li>Kieliszek do wina wypełnij kostkami lodu i dodaj 70 ml Prosecco. </li><li>Następnie dodaj sok z limonki i 70 ml bazy SodaStream Crafted Grejpfrut & Kwiat Czarnego Bzu.</li><li>Za pomocą łyżki barmańskiej, delikatnie wymieszaj składniki w kieliszku. </li><li>Dopełnij wodą gazowaną i udekoruj kawałkiem grejpfruta i kwiatami czarnego bzu.</li></ul>",
+      "order": "FIRST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD-05.png",
+      "size": "L",
+      "alt": "Zostań mistrzem domowego baru "
+    },
+    "text": {
+      "content": "<p><b>Miksologia – odkrywanie nowych doznań smakowych jest teraz prostsze, niż myślisz!</b></p><p>Masz ochotę na koktajle i moktajle jak z najmodniejszego baru? Zrobisz je w swojej kuchni, wystarczy baza SodaStream Crafted Grejpfrut & Kwiat Czarnego Bzu, z którą wykreujesz smakowe arcydzieła! Eksperymentuj w swoim domowym barze i oczaruj gości finezyjnymi smakami, które pozostaną z nimi na długo. </p><p>Dodatkowo masz do wyboru znane ze sklepowych półek klasyki np. Pepsi, Mirindę i Lipton Ice Tea Green, a także owocowe kompozycje bez dodatku cukru takie jak Różowy Grejpfrut, Lemoniadę oraz Owoce Leśne. Wybieraj ulubione syropy SodaStream, by każdego dnia spełniać swoje smakowe marzenia. Czy może być pyszniej, prościej i wygodniej?</p><p><b>Twórz smakowite bąbelki i celebruj każdy dzień na swoich warunkach!</b></p>",
+      "order": "FIRST"
+    }
+  }
+]
